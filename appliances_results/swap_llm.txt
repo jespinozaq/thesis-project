@@ -1,0 +1,15 @@
+
+Swap re‑ranking (keep=8, pool=30):
+HR@1: 0.0358  NDCG@1: 0.0358
+HR@2: 0.0421  NDCG@2: 0.0398
+HR@3: 0.0481  NDCG@3: 0.0428
+HR@4: 0.0523  NDCG@4: 0.0446
+HR@5: 0.0559  NDCG@5: 0.0460
+HR@6: 0.0593  NDCG@6: 0.0472
+HR@7: 0.0619  NDCG@7: 0.0481
+HR@8: 0.0647  NDCG@8: 0.0489
+HR@9: 0.0672  NDCG@9: 0.0497
+HR@10: 0.0694  NDCG@10: 0.0503
+Average Log Popularity Difference: -1.1624
+Average Intra‑list Diversity: 0.4585
+Catalogue Coverage: 0.9904

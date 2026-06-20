@@ -1,0 +1,5 @@
+open ai: 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
+
+anthropic: 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
+
+deepseek: sk-1b29c10201db4cc0993811f280524233

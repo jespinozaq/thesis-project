@@ -1,0 +1,15 @@
+Experiment,HR@1,HR@5,HR@10,NDCG@10,LogPopDiff,Diversity,Coverage
+Zero-shot RoBERTa,0.0823,0.1018,0.1089,0.0944,-1.2583,0.0009,0.2401
+Zero-shot BLAIR,0.0825,0.0992,0.1071,0.0937,-1.3575,0.0988,0.3434
+BLAIR + custom loss,0.0821,0.1048,0.1139,0.0965,-1.0998,0.3366,0.3729
+LLM (ChatGPT base prompt),0.1027,0.1822,0.2445,0.1627,-1.5167,0.3784,0.4675
+LLM (ChatGPT mitigate),0.0576,0.1224,0.1831,0.1101,-1.5306,0.3828,0.4756
+LLM (ChatGPT minimize),0.0221,0.0778,0.1252,0.0656,-1.5678,0.3826,0.4681
+LLM (ChatGPT fair),0.0131,0.0517,0.1005,0.0476,-1.5228,0.3994,0.464
+LLM (Claude base),0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LLM (Claude fair),0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LLM (DeepSeek base),0.0251,0.0327,0.0328,0.0296,-1.4581,0.1306,0.0279
+LLM (DeepSeek mitigate),0.0066,0.0093,0.0093,0.0082,-1.5335,0.1308,0.0056
+LLM (DeepSeek fair),0.0282,0.0336,0.0397,0.0329,-1.4877,0.3291,0.0672
+Combined (BLAIR+custom + Claude fair),,,,,,,
+Combined (BLAIR+custom + DeepSeek fair),,,,,,,

@@ -1,0 +1,8 @@
+
+Retriever‑only baseline (pool=100):
+HR@1: 0.0823  NDCG@1: 0.0823
+HR@5: 0.1086  NDCG@5: 0.0955
+HR@10: 0.1171  NDCG@10: 0.0983
+Average Log Popularity Difference: -1.0816
+Average Intra‑list Diversity: 0.4547
+Catalogue Coverage: 0.3791

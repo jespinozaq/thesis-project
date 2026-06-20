@@ -1,0 +1,121 @@
+====== Low‑Exposure Cold‑Start (threshold=5) ======
+  ---- zero_shot ----
+
+Low‑Exposure Cold‑Start Evaluation (threshold ≤5)
+Warm items: 5140, Cold items: 2639
+
+Warm Item Performance:
+HR@1: 0.1043  NDCG@1: 0.1043
+HR@5: 0.1208  NDCG@5: 0.1130
+HR@10: 0.1288  NDCG@10: 0.1156
+
+Cold Item Performance:
+HR@1: 0.0379  NDCG@1: 0.0379
+HR@5: 0.0565  NDCG@5: 0.0469
+HR@10: 0.0648  NDCG@10: 0.0496
+
+  ---- base_500aug ----
+
+Low‑Exposure Cold‑Start Evaluation (threshold ≤5)
+Warm items: 5140, Cold items: 2639
+
+Warm Item Performance:
+HR@1: 0.1054  NDCG@1: 0.1054
+HR@5: 0.1294  NDCG@5: 0.1179
+HR@10: 0.1409  NDCG@10: 0.1216
+
+Cold Item Performance:
+HR@1: 0.0375  NDCG@1: 0.0375
+HR@5: 0.0621  NDCG@5: 0.0493
+HR@10: 0.0781  NDCG@10: 0.0546
+
+  ---- base_fullaug ----
+
+Low‑Exposure Cold‑Start Evaluation (threshold ≤5)
+Warm items: 5140, Cold items: 2639
+
+Warm Item Performance:
+HR@1: 0.1053  NDCG@1: 0.1053
+HR@5: 0.1276  NDCG@5: 0.1172
+HR@10: 0.1364  NDCG@10: 0.1200
+
+Cold Item Performance:
+HR@1: 0.0383  NDCG@1: 0.0383
+HR@5: 0.0621  NDCG@5: 0.0497
+HR@10: 0.0758  NDCG@10: 0.0541
+
+  ---- base_deepseek_fullaug ----
+
+Low‑Exposure Cold‑Start Evaluation (threshold ≤5)
+Warm items: 5140, Cold items: 2639
+
+Warm Item Performance:
+HR@1: 0.1058  NDCG@1: 0.1058
+HR@5: 0.1300  NDCG@5: 0.1184
+HR@10: 0.1389  NDCG@10: 0.1213
+
+Cold Item Performance:
+HR@1: 0.0371  NDCG@1: 0.0371
+HR@5: 0.0625  NDCG@5: 0.0492
+HR@10: 0.0781  NDCG@10: 0.0543
+
+  ---- base_gpt4o_fullaug ----
+
+Low‑Exposure Cold‑Start Evaluation (threshold ≤5)
+Warm items: 5140, Cold items: 2639
+
+Warm Item Performance:
+HR@1: 0.1068  NDCG@1: 0.1068
+HR@5: 0.1296  NDCG@5: 0.1183
+HR@10: 0.1389  NDCG@10: 0.1214
+
+Cold Item Performance:
+HR@1: 0.0360  NDCG@1: 0.0360
+HR@5: 0.0625  NDCG@5: 0.0487
+HR@10: 0.0781  NDCG@10: 0.0537
+
+  ---- large_fullaug ----
+
+Low‑Exposure Cold‑Start Evaluation (threshold ≤5)
+Warm items: 5140, Cold items: 2639
+
+Warm Item Performance:
+HR@1: 0.1049  NDCG@1: 0.1049
+HR@5: 0.1288  NDCG@5: 0.1173
+HR@10: 0.1389  NDCG@10: 0.1205
+
+Cold Item Performance:
+HR@1: 0.0379  NDCG@1: 0.0379
+HR@5: 0.0610  NDCG@5: 0.0491
+HR@10: 0.0709  NDCG@10: 0.0523
+
+  ---- llm_fullaug ----
+
+Low‑Exposure Cold‑Start Evaluation (threshold ≤5)
+Warm items: 5140, Cold items: 2639
+
+Warm Item Performance:
+HR@1: 0.1058  NDCG@1: 0.1058
+HR@5: 0.1263  NDCG@5: 0.1164
+HR@10: 0.1331  NDCG@10: 0.1186
+
+Cold Item Performance:
+HR@1: 0.0371  NDCG@1: 0.0371
+HR@5: 0.0587  NDCG@5: 0.0476
+HR@10: 0.0709  NDCG@10: 0.0515
+
+  ---- best_tuned ----
+
+Low‑Exposure Cold‑Start Evaluation (threshold ≤5)
+Warm items: 5140, Cold items: 2639
+
+Warm Item Performance:
+HR@1: 0.1060  NDCG@1: 0.1060
+HR@5: 0.1296  NDCG@5: 0.1182
+HR@10: 0.1401  NDCG@10: 0.1217
+
+Cold Item Performance:
+HR@1: 0.0368  NDCG@1: 0.0368
+HR@5: 0.0640  NDCG@5: 0.0498
+HR@10: 0.0811  NDCG@10: 0.0554
+

@@ -1,0 +1,5 @@
+Experiment,HR@10,NDCG@10,LogPopDiff,Diversity,Coverage,Dataset
+Retriever Top‑10 (pool=30 baseline),0.1171,0.0981,-1.0818,0.4547,0.3791,All_Beauty
+"Swap Combined (pool=30, keep=8, swap=2)",0.1166,0.0980,-1.0789,0.4633,0.3788,All_Beauty
+Zero‑shot BLAIR (pool=30 baseline),0.1071,0.0935,-1.3578,,0.3434,All_Beauty
+"Zero‑shot BLAIR Swap (pool=30, keep=8, swap=2)",0.1063,0.0932,-1.3510,,0.3443,All_Beauty

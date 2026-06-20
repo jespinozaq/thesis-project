@@ -1,0 +1,42 @@
+ORIGINAL vs AUGMENTED DESCRIPTIONS
+
+ASIN: B07XG5RM98
+Original:
+Canitor 6 Pack Top Knot Headband for Women Knotted Headbands Knot Headbands for Women Satin Headbands Silk Headbands for Women Headbands Women Hair
+
+Augmented:
+"Canitor 6 Pack Top Knot Headband, suitable for various individuals. Knotted headbands designed for use by people of all ages and genders. Made from satin and silk materials, these headbands can be used for various hair types."
+
+--------------------------------------------------------------------------------
+ASIN: B01MA2XLTD
+Original:
+Big Green Everyday Sun Cream Remover 4.5 fl oz.-Natural-Plant Based Cleanser-No Sulfate-Gentle-Deep Cleansing-Face-Hydrating-Calming-All Skin Types-Baby- Sensitive Adults
+
+Augmented:
+Big Green Everyday Sun Cream Remover, 4.5 fl oz. Natural, plant-based cleanser. Free from sulfates. Designed for gentle, deep cleansing of the face. Hydrating and calming formula suitable for all skin types, including infants and individuals with sensitive skin.
+
+--------------------------------------------------------------------------------
+ASIN: B09753SQ8C
+Original:
+Beekman 1802 Lilac Dream Goat Milk Bar Soap 3-Piece Set
+
+Augmented:
+Beekman 1802 Lilac Dream Goat Milk Bar Soap 3-Piece Set, designed for personal cleansing and skincare. Each bar contains goat milk as a key ingredient. Suitable for a variety of skin types and preferences.
+
+--------------------------------------------------------------------------------
+ASIN: B089CJL4L7
+Original:
+Pre Stretched Braiding Hair 20 Inch Synthetic Professional Braiding Hair EZ Braids Perm Yaki Hair with Itch Free Hot Water Setting Braiding Hair Extensions(8 Packs, 1B/30#)
+
+Augmented:
+Pre-stretched braiding hair, 20 inches in length, made from synthetic materials. Designed for professional braiding, this product includes EZ braids with a perm yaki texture. It is suitable for hot water setting and comes in 8 packs, color 1B/30#.
+
+--------------------------------------------------------------------------------
+ASIN: B08DX5GRL3
+Original:
+L7 Mannequin Lifelike Training Mannequin Head with 4 Pairs Replaced Eyelids for Eyelash Extensions Training (dark) Package details: a make-up head, 4 pairs of eyelids(1 pair is on the head and 3 pairs are packed separately) Mannequin made of high quality silicone, smooth and realistic texture simulative of human skin. Face skin feel like human skin, lifelike and comfortable A great doll gift for your daughter, cosmetology students, massagist and woman to practice making up or facial massage. The real color of the item may be slightly different from the pictures shown on website caused by many factors such as brightness of your monitor and light brightness.
+
+Augmented:
+L7 Mannequin Lifelike Training Mannequin Head with 4 Pairs of Replaceable Eyelids for Eyelash Extensions (dark). Package includes a make-up head and 4 pairs of eyelids (1 pair is attached to the head and 3 pairs are packaged separately). The mannequin is made of silicone, designed to simulate human skin with a smooth texture. This product can be used for practicing makeup application or facial massage techniques. The actual color of the item may vary slightly from the images displayed on the website due to factors such as monitor brightness and lighting conditions.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,66 @@
+{
+  "experiments": [
+    {
+      "name": "BLAIR Base (DeepSeek full aug)",
+      "type": "fine_tuned",
+      "model_path": "checkpoints_blair_base_deepseek_fullaug/best_model.pt",
+      "model_name": "roberta-base",
+      "checkpoints_dir": "checkpoints_blair_base_deepseek_fullaug"
+    },
+    {
+      "name": "BLAIR Base (GPT-4o full aug)",
+      "type": "fine_tuned",
+      "model_path": "checkpoints_blair_base_gpt4o_fullaug/best_model.pt",
+      "model_name": "roberta-base",
+      "checkpoints_dir": "checkpoints_blair_base_gpt4o_fullaug"
+    },
+    {
+      "name": "LLM\u2011as\u2011Embedder (Llama\u20113.1\u20118B, full aug)",
+      "type": "fine_tuned",
+      "model_path": "checkpoints_llm_fullaug/best_model.pt",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "checkpoints_dir": "checkpoints_llm_fullaug"
+    },
+    {
+      "name": "LLM (DeepSeek base)",
+      "type": "llm",
+      "backend": "openai",
+      "model": "deepseek-chat",
+      "prompt_mode": "base",
+      "base_url": "https://api.deepseek.com",
+      "api_key_env": "DEEPSEEK_API_KEY",
+      "num_workers": 30,
+      "request_delay": 0.1
+    },
+    {
+      "name": "LLM (DeepSeek fair)",
+      "type": "llm",
+      "backend": "openai",
+      "model": "deepseek-chat",
+      "prompt_mode": "fair",
+      "base_url": "https://api.deepseek.com",
+      "api_key_env": "DEEPSEEK_API_KEY",
+      "num_workers": 30,
+      "request_delay": 0.1
+    },
+    {
+      "name": "Combined (BLAIR + DeepSeek fair)",
+      "type": "combined",
+      "model_path": "checkpoints_blair_base_fullaug/best_model.pt",
+      "model_name": "roberta-base",
+      "backend": "openai",
+      "llm_model": "deepseek-chat",
+      "base_url": "https://api.deepseek.com",
+      "api_key_env": "DEEPSEEK_API_KEY",
+      "num_workers": 60,
+      "request_delay": 0.03
+    }
+  ],
+  "common": {
+    "test_seq": "processed_All_Beauty/test_seqs.json",
+    "meta_file": "meta_All_Beauty.jsonl",
+    "item_pop": "processed_All_Beauty/item_popularity.json",
+    "topk": 10,
+    "blair_model_path": "blair-roberta-base-local"
+  }
+}

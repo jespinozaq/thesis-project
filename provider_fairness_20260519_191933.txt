@@ -1,0 +1,66 @@
+
+====== Provider‑Side Exposure Fairness ======
+  ---- zero_shot ----
+
+Provider‑Side Exposure Fairness (top-10)
+Total recommendations issued: 77790
+Unique items recommended: 38658 (Coverage: 0.3434)
+Gini coefficient of item exposure: 0.3876
+Herfindahl-Hirschman Index (HHI): 0.0001
+
+  ---- base_500aug ----
+
+Provider‑Side Exposure Fairness (top-10)
+Total recommendations issued: 77790
+Unique items recommended: 42866 (Coverage: 0.3807)
+Gini coefficient of item exposure: 0.3393
+Herfindahl-Hirschman Index (HHI): 0.0000
+
+  ---- base_fullaug ----
+
+Provider‑Side Exposure Fairness (top-10)
+Total recommendations issued: 77790
+Unique items recommended: 41712 (Coverage: 0.3705)
+Gini coefficient of item exposure: 0.3482
+Herfindahl-Hirschman Index (HHI): 0.0000
+
+  ---- base_deepseek_fullaug ----
+
+Provider‑Side Exposure Fairness (top-10)
+Total recommendations issued: 77790
+Unique items recommended: 42831 (Coverage: 0.3804)
+Gini coefficient of item exposure: 0.3397
+Herfindahl-Hirschman Index (HHI): 0.0000
+
+  ---- base_gpt4o_fullaug ----
+
+Provider‑Side Exposure Fairness (top-10)
+Total recommendations issued: 77790
+Unique items recommended: 42722 (Coverage: 0.3794)
+Gini coefficient of item exposure: 0.3386
+Herfindahl-Hirschman Index (HHI): 0.0000
+
+  ---- large_fullaug ----
+
+Provider‑Side Exposure Fairness (top-10)
+Total recommendations issued: 77790
+Unique items recommended: 42363 (Coverage: 0.3763)
+Gini coefficient of item exposure: 0.3449
+Herfindahl-Hirschman Index (HHI): 0.0000
+
+  ---- llm_fullaug ----
+
+Provider‑Side Exposure Fairness (top-10)
+Total recommendations issued: 77790
+Unique items recommended: 39922 (Coverage: 0.3546)
+Gini coefficient of item exposure: 0.3649
+Herfindahl-Hirschman Index (HHI): 0.0000
+
+  ---- best_tuned ----
+
+Provider‑Side Exposure Fairness (top-10)
+Total recommendations issued: 77790
+Unique items recommended: 42716 (Coverage: 0.3794)
+Gini coefficient of item exposure: 0.3397
+Herfindahl-Hirschman Index (HHI): 0.0000
+

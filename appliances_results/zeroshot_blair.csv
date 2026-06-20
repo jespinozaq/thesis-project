@@ -1,0 +1,2 @@
+Experiment,HR@10,NDCG@10,LogPopDiff,Diversity,Coverage
+Zero‑shot BLAIR (Appliances),0.0570,0.0445,-1.3064,0.0730,0.9772

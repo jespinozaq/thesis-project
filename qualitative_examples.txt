@@ -1,0 +1,275 @@
+Qualitative examples:
+
+User: AHDAKRXBSMTTWIQO6B5H3G45KXSQ
+  History items:
+    - Tojwi Colorful Stainless Steel Rhinestone Nose Studs, 20 Pieces They are cool Fashionable Showing your special taste Best price High quality Tojwi Colorful Stainless Steel Rhinesto
+    - Best Surgical Steel Nose Stud Lot - 40 Piece Set (Colorful) Best Surgical Steel Nose Stud Lot - 40 Piece Set (Colorful)
+    - Harlorki Women's Bohemian Jewelry Statement Necklaces Women Rhinestone Gem Pendant Collar Gender: Women, Girl, Main Material: Alloy, Rhinestone. Very Fashion and Shiny. Chain Lengt
+
+  Custom Loss (GPT-4o-mini):
+     1. Tojwi Colorful Stainless Steel Rhinestone Nose Studs, 20 Pieces They are cool Fashionable Showing your special taste Best price High quality Tojwi Colorful Stainless Steel Rhinesto
+     2. Best Surgical Steel Nose Stud Lot - 40 Piece Set (Colorful) Best Surgical Steel Nose Stud Lot - 40 Piece Set (Colorful)
+     3. Vktech® 20pcs Mix Colors Rhinestone Nose Studs Ring Bone Bar Pin Piercing Jewelry Sparkling crystal will make you look more outstanding Stainless steel with high quality is not har
+     4. LEFV 20pcs Mixed Color Stainless Steel Rhinestone Piercing Nose Studs Rings Bone Bar Pin Jewelry - Assorted Colors Material: 361L surgical grade steel + crystal Crystal dia: approx
+     5. Keyzone 24 Pcs Lady Crystal Rhinestone Nose Ring Bone Stud Bar Surgical Steel Its special design will make you look unique. It is a good gift for your lover,family,friend and cowor
+     6. Keyzone 24 Pcs Lady Crystal Rhinestone Nose Ring Bone Stud Bar Surgical Steel Its special design will make you look unique. It is a good gift for your lover,family,friend and cowor
+     7. Best Surgical Steel Nose Stud Lot - 40 Piece Set (White) Material: Rhinestone. Rhinestone Size:0.15mm, Length:0.9mm. Top luster, dazzling, special design will make you look unique.
+     8. 20Pcs Rhinestone Screw Nose Ring Bone Stud Stainless Steel Bars Body Piercing Material: Stainless Steel. Bar Length: 7mm. Bar Width: 0.8mm. Ball Size: 2mm . Features:  Brand new an
+     9. 20Pcs Rhinestone Screw Nose Ring Bone Stud Stainless Steel Bars Body Piercing Material: Stainless Steel. Bar Length: 7mm. Bar Width: 0.8mm. Ball Size: 2mm . Features:  Brand new an
+    10. Jewelry Set of 25pcs 14 Gauge 316L Surgical Steel Belly Rings Navel Belly Button Piercings Bananabells Curved Barbells With Different Pendants Decorations and Crystals Rhinestones 
+
+  Custom Loss (DeepSeek):
+     1. Tojwi Colorful Stainless Steel Rhinestone Nose Studs, 20 Pieces They are cool Fashionable Showing your special taste Best price High quality Tojwi Colorful Stainless Steel Rhinesto
+     2. Best Surgical Steel Nose Stud Lot - 40 Piece Set (Colorful) Best Surgical Steel Nose Stud Lot - 40 Piece Set (Colorful)
+     3. LEFV 20pcs Mixed Color Stainless Steel Rhinestone Piercing Nose Studs Rings Bone Bar Pin Jewelry - Assorted Colors Material: 361L surgical grade steel + crystal Crystal dia: approx
+     4. Vktech® 20pcs Mix Colors Rhinestone Nose Studs Ring Bone Bar Pin Piercing Jewelry Sparkling crystal will make you look more outstanding Stainless steel with high quality is not har
+     5. Best Surgical Steel Nose Stud Lot - 40 Piece Set (White) Material: Rhinestone. Rhinestone Size:0.15mm, Length:0.9mm. Top luster, dazzling, special design will make you look unique.
+     6. Keyzone 24 Pcs Lady Crystal Rhinestone Nose Ring Bone Stud Bar Surgical Steel Its special design will make you look unique. It is a good gift for your lover,family,friend and cowor
+     7. Keyzone 24 Pcs Lady Crystal Rhinestone Nose Ring Bone Stud Bar Surgical Steel Its special design will make you look unique. It is a good gift for your lover,family,friend and cowor
+     8. 20Pcs Rhinestone Screw Nose Ring Bone Stud Stainless Steel Bars Body Piercing Material: Stainless Steel. Bar Length: 7mm. Bar Width: 0.8mm. Ball Size: 2mm . Features:  Brand new an
+     9. 20Pcs Rhinestone Screw Nose Ring Bone Stud Stainless Steel Bars Body Piercing Material: Stainless Steel. Bar Length: 7mm. Bar Width: 0.8mm. Ball Size: 2mm . Features:  Brand new an
+    10. Sqdeal 9pcs Mixed 16g Czech Crystal Lip Labret Ring Studs Monroe Stainless Steel Piercing By Sqdeal
+
+  Custom Loss (GPT-4o):
+     1. Tojwi Colorful Stainless Steel Rhinestone Nose Studs, 20 Pieces They are cool Fashionable Showing your special taste Best price High quality Tojwi Colorful Stainless Steel Rhinesto
+     2. Best Surgical Steel Nose Stud Lot - 40 Piece Set (Colorful) Best Surgical Steel Nose Stud Lot - 40 Piece Set (Colorful)
+     3. Vktech® 20pcs Mix Colors Rhinestone Nose Studs Ring Bone Bar Pin Piercing Jewelry Sparkling crystal will make you look more outstanding Stainless steel with high quality is not har
+     4. LEFV 20pcs Mixed Color Stainless Steel Rhinestone Piercing Nose Studs Rings Bone Bar Pin Jewelry - Assorted Colors Material: 361L surgical grade steel + crystal Crystal dia: approx
+     5. Keyzone 24 Pcs Lady Crystal Rhinestone Nose Ring Bone Stud Bar Surgical Steel Its special design will make you look unique. It is a good gift for your lover,family,friend and cowor
+     6. Keyzone 24 Pcs Lady Crystal Rhinestone Nose Ring Bone Stud Bar Surgical Steel Its special design will make you look unique. It is a good gift for your lover,family,friend and cowor
+     7. Best Surgical Steel Nose Stud Lot - 40 Piece Set (White) Material: Rhinestone. Rhinestone Size:0.15mm, Length:0.9mm. Top luster, dazzling, special design will make you look unique.
+     8. Sqdeal 9pcs Mixed 16g Czech Crystal Lip Labret Ring Studs Monroe Stainless Steel Piercing By Sqdeal
+     9. 20Pcs Rhinestone Screw Nose Ring Bone Stud Stainless Steel Bars Body Piercing Material: Stainless Steel. Bar Length: 7mm. Bar Width: 0.8mm. Ball Size: 2mm . Features:  Brand new an
+    10. 20Pcs Rhinestone Screw Nose Ring Bone Stud Stainless Steel Bars Body Piercing Material: Stainless Steel. Bar Length: 7mm. Bar Width: 0.8mm. Ball Size: 2mm . Features:  Brand new an
+
+  LLM-as-Embedder:
+     1. Tojwi Colorful Stainless Steel Rhinestone Nose Studs, 20 Pieces They are cool Fashionable Showing your special taste Best price High quality Tojwi Colorful Stainless Steel Rhinesto
+     2. Best Surgical Steel Nose Stud Lot - 40 Piece Set (Colorful) Best Surgical Steel Nose Stud Lot - 40 Piece Set (Colorful)
+     3. Best Surgical Steel Nose Stud Lot - 40 Piece Set (White) Material: Rhinestone. Rhinestone Size:0.15mm, Length:0.9mm. Top luster, dazzling, special design will make you look unique.
+     4. LEFV 20pcs Mixed Color Stainless Steel Rhinestone Piercing Nose Studs Rings Bone Bar Pin Jewelry - Assorted Colors Material: 361L surgical grade steel + crystal Crystal dia: approx
+     5. MeilyMartini Glass Dangle Navel Belly Button Rings Rhinestone Body Piercing Show off your personality and temperament Material: 316L Surgical Steel Beautiful and Elegant Ladies / W
+     6. Keyzone 24 Pcs Lady Crystal Rhinestone Nose Ring Bone Stud Bar Surgical Steel Its special design will make you look unique. It is a good gift for your lover,family,friend and cowor
+     7. Keyzone 24 Pcs Lady Crystal Rhinestone Nose Ring Bone Stud Bar Surgical Steel Its special design will make you look unique. It is a good gift for your lover,family,friend and cowor
+     8. VAGA Belly Button Rings Dangle Sexy Set Set of 6 Silver Colored 316F stainless steel 14 Gauge Belly Rings Navels Buttons Piercings With Rhinestones Crystals And Trendy Pendants Dec
+     9. VAGA Belly Button Rings Women Body Jewelry Piercing Great Value High Quality Pack of 10pcs stainless steel Belly Button Navel 14 Gauge Piercings With Crystals Gems In Different Col
+    10. Vktech Charming Dazzling Rhinestone Tassel Dangle Navel Belly Button Ring 3 Colors (White) This splendid jewelry is definitely your flattering decoration for daily dress up or spec
+
+--------------------------------------------------------------------------------
+User: AGHDNKSBM2M3BNP45CPPWKHVPA3A
+  History items:
+    - (WITH BONUS: JADE SCRAPER TOOL) Anti Aging Jade Roller for Face Massage, 100% Natural Facial Massager with Double Rollers to Rejuvenate Skin
+    - AKT Therapy - Natural D-Luxe Daily Bronzer SPF 30 (1 oz | 30 g)
+
+  Custom Loss (GPT-4o-mini):
+     1. AKT Therapy - Natural D-Luxe Daily Bronzer SPF 30 (1 oz | 30 g)
+     2. (WITH BONUS: JADE SCRAPER TOOL) Anti Aging Jade Roller for Face Massage, 100% Natural Facial Massager with Double Rollers to Rejuvenate Skin
+     3. Anti Aging Jade Roller for Face Massage, 100% Natural Facial Massager with Double Rollers to Rejuvenate Skin
+     4. Original 100% Natural Chi Himalayan Jade Roller for face and Gua Sha From CPC Products
+     5. Sleep & Wellness Premium Anti-Aging Jade Roller for Facial Massage Therapy - 100% Natural Double Jade for Face Slimming, Rejuvenation, & Beauty
+     6. Premium Jade Roller Facial Massager | Anti aging, Skin Rejuvenate, Anti Wrinkle and Cheeks Slimming | 100% Certified Natural Jade Stone | Natural Skin Care Therapy | By Roy Cosmeti
+     7. Jade Roller for face by Ecoglad, 100% Real Jade Facial Roller, Jade Roller Massager with Double Ends Anti-Aging Therapy & Skincare Tool for Face & Body, Free Headband Included, Gre
+     8. Mountain Sourced Premium Face Toning Jade Roller 100% Natural Jade Facial Roller Rejuvenating Face Massager Comes With a Free Travel Pouch <p><strong>✔ ELIMINATES DARK UNDER EYE CI
+     9. Jade Roller for Face - Gua Sha Tools - 100% Real Jade Face Roller Massager Set - Anti Aging Wrinkle Puffiness Facial Skin Jade Rolling Treatment Therapy - Storage Pouch and E-book 
+    10. Real Jade Roller for Face | Anti Aging Facial Massager for Women and Men | 100% Natural Green Nephrite | Double Face-Lift Massage Tool by Avatar&Pop ✅ ARE YOU TIRED OF MASSAGERS BR
+
+  Custom Loss (DeepSeek):
+     1. AKT Therapy - Natural D-Luxe Daily Bronzer SPF 30 (1 oz | 30 g)
+     2. (WITH BONUS: JADE SCRAPER TOOL) Anti Aging Jade Roller for Face Massage, 100% Natural Facial Massager with Double Rollers to Rejuvenate Skin
+     3. Anti Aging Jade Roller for Face Massage, 100% Natural Facial Massager with Double Rollers to Rejuvenate Skin
+     4. Original 100% Natural Chi Himalayan Jade Roller for face and Gua Sha From CPC Products
+     5. Best Jade Roller For Face - Massager Slimming Tool Roller Anti Aging Therapy Wrinkle Cellulite Green Jade Chinese Facial Therapy 100% Natural Double Neck Healing Slimming Premium Q
+     6. Jade Roller for face by Ecoglad, 100% Real Jade Facial Roller, Jade Roller Massager with Double Ends Anti-Aging Therapy & Skincare Tool for Face & Body, Free Headband Included, Gre
+     7. Jade Roller Facial Tools Set, 100% Highest Quality Natural Jade for Face Massager, Reduces Puffiness, Anti Aging Healing Slimming, Rejuvenates Face and Neck Skin (green) ►❤100% 100
+     8. Meedasy Jade Roller for Face - Gua Sha Tools - 100% Real Jade Face Roller Massager Set - Anti Aging Wrinkle Puffiness Facial Skin Jade Rolling Treatment Therapy
+     9. Jade Roller for Face - Gua Sha Tools - 100% Real Jade Face Roller Massager Set - Anti Aging Wrinkle Puffiness Facial Skin Jade Rolling Treatment Therapy - Storage Pouch and E-book 
+    10. Jade Roller Face Massager – 100% Natural Anti-aging Double Neck Facial Massager – Healing, Slimming & Wrinkle Treatment Jade Roller For Face, Neck, Body, & Eyes – Expel Toxins & Re
+
+  Custom Loss (GPT-4o):
+     1. (WITH BONUS: JADE SCRAPER TOOL) Anti Aging Jade Roller for Face Massage, 100% Natural Facial Massager with Double Rollers to Rejuvenate Skin
+     2. AKT Therapy - Natural D-Luxe Daily Bronzer SPF 30 (1 oz | 30 g)
+     3. Anti Aging Jade Roller for Face Massage, 100% Natural Facial Massager with Double Rollers to Rejuvenate Skin
+     4. Original 100% Natural Chi Himalayan Jade Roller for face and Gua Sha From CPC Products
+     5. Jade Roller Facial Tools Set, 100% Highest Quality Natural Jade for Face Massager, Reduces Puffiness, Anti Aging Healing Slimming, Rejuvenates Face and Neck Skin (green) ►❤100% 100
+     6. Mountain Sourced Premium Face Toning Jade Roller 100% Natural Jade Facial Roller Rejuvenating Face Massager Comes With a Free Travel Pouch <p><strong>✔ ELIMINATES DARK UNDER EYE CI
+     7. DORIS Jade Roller Massager| Carefully selected Premium Natural Jade, Hand-Polished, Help reduce wrinkle, brighten skin, two size roller for Face, Neck & Eyes | Essential skin care 
+     8. Premium Jade Roller Facial Massager | Anti aging, Skin Rejuvenate, Anti Wrinkle and Cheeks Slimming | 100% Certified Natural Jade Stone | Natural Skin Care Therapy | By Roy Cosmeti
+     9. Premium Xiuyan Jade Facial Roller,100% Natural Jade Roller | Durable Anti-Aging Slimming Massager Face and Neck Beauty Tool -by Skin And Senses
+    10. The Original Premium Jade Roller for Facial Massage by Twenty Prime | 100% Natural Jade Roller Massager | Anti-Wrinkle and Anti-Aging Beauty Tool | Jade Roller For Face, Neck, and 
+
+  LLM-as-Embedder:
+     1. (WITH BONUS: JADE SCRAPER TOOL) Anti Aging Jade Roller for Face Massage, 100% Natural Facial Massager with Double Rollers to Rejuvenate Skin
+     2. AKT Therapy - Natural D-Luxe Daily Bronzer SPF 30 (1 oz | 30 g)
+     3. Anti Aging Jade Roller for Face Massage, 100% Natural Facial Massager with Double Rollers to Rejuvenate Skin
+     4. Care Essentials Jade Roller and Gua Sha Scraping Massage Tool| Himalayan Anti-aging 100% Natural Facial Jade Stone Set| Face Eye Neck Beauty Roller For Slimming & Firming| Rejuvena
+     5. Jade Roller Face Massager Anti Aging Facial Therapy - Includes Gua Sha Scrapping Tool And Vitamin C Serum - RnB Co.
+     6. Anti aging Natural Jade Roller for Face and Gua Sha Massage Tool Set, Anti Wrinkles
+     7. ROCSTOC Premium 100% Natural Jade Roller | Durable Anti-Aging Slimming Massager Face and Neck Beauty Tool
+     8. Sleep & Wellness Premium Anti-Aging Jade Roller for Facial Massage Therapy - 100% Natural Double Jade for Face Slimming, Rejuvenation, & Beauty
+     9. Jade Roller for Face and Gua Sha Stone Massage Tool Set by SRI - Natural Face Roller for Toning & Wrinkles - Authentic Face Massager that Reduces Puffiness to Promote Soft and Firm
+    10. Jade Facial Roller, Jade Roller for Face, Real Jade Roller, Jade Roller, Anti Aging Gua Sha Scraping Massage Tool Set Therapy 100% Natural Jade Facial Roller Anti Wrinkle and Skin 
+
+--------------------------------------------------------------------------------
+User: AGKMS3WHLKAFPZEZ3N4RU4H6RDYA
+  History items:
+    - Jiulory 600pcs Coffin Nails Long Ballerina Fake Nail Tips 10 Sizes Full Cover Acrylic False Nails Clear Artificial Nails For Nail Salons or DIY Nail Art At Home
+    - Nizi Jewelry Nail Art Marbleizing Painting Nails DIY Tools Dotting Pen 1pcs Rhinestones Box Plastic Plate 1pcs Gel Cube 1pcs 3pcs/Set Dotting Pen 1pcs + Rhinestone Picker Gel Cube 
+    - Mia Secret FORMAGEL Clear Builder Gel 1 oz Professional Nail System
+    - Exclusive Nail Couture Gummy Jelly UV/LED Gel & Shine E Gel Top coat Bundle
+
+  Custom Loss (GPT-4o-mini):
+     1. Mia Secret FORMAGEL Clear Builder Gel 1 oz Professional Nail System
+     2. U-Shinein 30ml Builder Gel Clear, 5-in-1 Nails Building Gel, Extension Gel, Blooming Gel, Nail Glue Gel, Nail Glitter Powder Gel Multifunctional, Fast Dry UV LED Cured Need No More
+     3. U-Shinein 30ml Clear Builder Gel, Nail Extension Gel- Used as Builder Gel, Blooming Gel, Nail Polish Glue Gel, Nail Glitter Powder Mix Gel DIY Salon Nail Art Manicure
+     4. Exclusive Nail Couture Gummy Jelly UV/LED Gel & Shine E Gel Top coat Bundle
+     5. Exclusive Nail Couture Gummy Jelly UV/LED Gel & Shine E Gel Top coat Bundle
+     6. Nail Sculpting Gel Brisa Lite - Clear 0.5oz
+     7. Vrenmol 30ml Clear Poly Gel UV Nail Builder Finger Extension Gel with Nail Brush Nail Art Manicure Kit Clear
+     8. Fashion gallery 3 pc Pink White Clear Transparent Color UV Gel Builder Top coat Brush Form Nail Art Tips Nail Manicure Extension Nail Art Kit
+     9. Clear Poly Nail Extension Gel, 60ML Nail Builder Gel Trendy Nail Art Design DIY at Home Salon
+    10. Elite99 Nail Art UV Builder Gel Soak-off French Acrylic Nail Art Tips Extension Maniucre Salon DIY Decoration 8ml 006 Clear To create a protective layer, strengthen your own natura
+
+  Custom Loss (DeepSeek):
+     1. Mia Secret FORMAGEL Clear Builder Gel 1 oz Professional Nail System
+     2. Exclusive Nail Couture Gummy Jelly UV/LED Gel & Shine E Gel Top coat Bundle
+     3. Exclusive Nail Couture Gummy Jelly UV/LED Gel & Shine E Gel Top coat Bundle
+     4. 2) Gelish 01247 Structure Soak Off Curable Gel Nail LED Clear Polish 15mL .5oz
+     5. Young Nails Synergy Base Gel - Easy to Use Technologically Advanced Chain Entanglement. Build, Conceal, Sculpt, & Gloss - Available in 15 gram, 30 gram, & 60 gram size options
+     6. Bekith 1000 PCS Coffin Nails Long Ballerina Fake Nail Tips Natural Full Cover Acrylic False Nails - 10 Sizes Artificial Nails For Nail Salons or DIY Nail Art
+     7. Jiulory 600pcs Coffin Nails Long Ballerina Fake Nail Tips 10 Sizes Full Cover Acrylic False Nails Clear Artificial Nails For Nail Salons or DIY Nail Art At Home
+     8. Jiulory 600pcs Coffin Nails Long Ballerina Fake Nail Tips 10 Sizes Full Cover Acrylic False Nails White Artificial Nails For Nail Salons or DIY Nail Art At Home
+     9. Nail Sculpting Gel Brisa Lite - Clear 0.5oz
+    10. SNS Dipping liquid system (Gelous Base Coat)
+
+  Custom Loss (GPT-4o):
+     1. Mia Secret FORMAGEL Clear Builder Gel 1 oz Professional Nail System
+     2. Exclusive Nail Couture Gummy Jelly UV/LED Gel & Shine E Gel Top coat Bundle
+     3. Exclusive Nail Couture Gummy Jelly UV/LED Gel & Shine E Gel Top coat Bundle
+     4. Nail Sculpting Gel Brisa Lite - Clear 0.5oz
+     5. Bluesky NEW White Uv Builder Gel Acrylic Nail Art Tips Manicure (Pink+white+ clear)
+     6. U-Shinein 30ml Clear Builder Gel, Nail Extension Gel- Used as Builder Gel, Blooming Gel, Nail Polish Glue Gel, Nail Glitter Powder Mix Gel DIY Salon Nail Art Manicure
+     7. Nail Art,Putars Portable Clear UV Builder Gel Acrylic Nail Art Tips Manicure (Clear)
+     8. Fashion gallery 3 pc Pink White Clear Transparent Color UV Gel Builder Top coat Brush Form Nail Art Tips Nail Manicure Extension Nail Art Kit
+     9. 3PC UV gel nail Ongles builder tool clear pink white 100% Brand New. 3 pieces of different colors of UV builder gel for creating fantastic crystal french nail effect. Colour : Clea
+    10. 2) Gelish 01247 Structure Soak Off Curable Gel Nail LED Clear Polish 15mL .5oz
+
+  LLM-as-Embedder:
+     1. Nail Art,Putars Portable Clear UV Builder Gel Acrylic Nail Art Tips Manicure (Clear)
+     2. Exclusive Nail Couture Gummy Jelly UV/LED Gel & Shine E Gel Top coat Bundle
+     3. Exclusive Nail Couture Gummy Jelly UV/LED Gel & Shine E Gel Top coat Bundle
+     4. AORAEM Glue on Nails Kit Coffin Half Cover Shaped Nails Tips 500Pcs Clear Artificial Ballerina Fake Nails 2 Acrylic Nail Glue with Bag for Women(C-500)
+     5. VinewS 100Pcs Clear Nail Form Full Cover Quick Building Poly Gel Mold Tips Finger Extension Nail System UV Builder Gel DIY Manicure Tool
+     6. Elite99 Nail Art UV Builder Gel Soak-off French Acrylic Nail Art Tips Extension Maniucre Salon DIY Decoration 8ml 006 Clear To create a protective layer, strengthen your own natura
+     7. Fashion gallery 3 pc Pink White Clear Transparent Color UV Gel Builder Top coat Brush Form Nail Art Tips Nail Manicure Extension Nail Art Kit
+     8. U-Shinein Builder Nail Gel Kit, Clear Pink White Nail Extension Building Gel Nail Repair Hard Gel Nails Strengthen Acrylic Nail Manicure Art with 100pcs Nail Forms Nail Pen
+     9. 2 PACK !! Kiss Gel Fantasy Nail Kit, Free Glue, Premium False Nails, Fashion Fake Nails (KGN06)
+    10. Elite99 Nail Art UV Builder Gel Soak-off French Acrylic Nail Art Tips Extension Maniucre Salon DIY Decoration 8ml 002 To create a protective layer, strengthen your own natural nail
+
+--------------------------------------------------------------------------------
+User: AFORAK32X3OSJJKL7ZBSSDECN4PA
+  History items:
+    - YUNAI Fake Nail Long/Medium Size Fake Nail Artificial Nail Tips Sparkling Dream Color Purple
+    - YUNAI Nail Art Symphony Shell Color Blue Metal Shine Fake Fingernails Artificial False Nail Tips for Women 24pcs/set
+
+  Custom Loss (GPT-4o-mini):
+     1. YUNAI Nail Art Symphony Shell Color Blue Metal Shine Fake Fingernails Artificial False Nail Tips for Women 24pcs/set
+     2. YUNAI Fake Nail Long/Medium Size Fake Nail Artificial Nail Tips Sparkling Dream Color Purple
+     3. YUNAI Round Head Fake Nails for Women/Girl French Manicure All Match Light Purple&Nude False Nail Tips
+     4. YUNAI Metallic Artificial Nails Wine Red Mirror Shinning Square Medium size False Nail tips
+     5. Jovono Elegant False Nail Tips French Fake Nails for Brides or Bridesmaid No glue (Purple)
+     6. Woeoe Bling Glossy Fake Toenails Purple Short Press on Toe Nails Full Cover Artificial False Toenails for Women and Girls (24Pcs)
+     7. YUNAI Deep Burgundy Gradient Glitter Fake Nails Art Salon Manicure Beauty Nail Patch False Nails with Design for Women French Full Nail Tips
+     8. Yeemoo 24pcs Fake Nails Ballet style nail art Solid color nail products Long section Fashion style Various colors (Purple)
+     9. Kiss Glam Fantasy Medium Length Matte Blue Nails KGF03 Parasol
+    10. Mirror False Nails Full Cover Point Metallic Acrylic Nail Tips 24pcs/box Art Design Tips 14 Colors Optional Easy for Daily wear (Sky Blue)
+
+  Custom Loss (DeepSeek):
+     1. YUNAI Fake Nail Long/Medium Size Fake Nail Artificial Nail Tips Sparkling Dream Color Purple
+     2. YUNAI Nail Art Symphony Shell Color Blue Metal Shine Fake Fingernails Artificial False Nail Tips for Women 24pcs/set
+     3. YUNAI Round Head Fake Nails for Women/Girl French Manicure All Match Light Purple&Nude False Nail Tips
+     4. Jovono Elegant False Nail Tips French Fake Nails for Brides or Bridesmaid No glue (Purple)
+     5. YUNAI Medium False Nails Golden Shinning Mirror Surface Metallic Fake Nails 24pcs
+     6. YUNAI Bling Bling Fake Nails For Wedding Long Full Cover false Nail Tips
+     7. Sethexy Long Ballerina False Nail Glossy Coffin Fake Nails Press on 24Pcs Acrylic Art Nail Tips For Women and Girls (Dodger Blue)
+     8. LittleB Glossy Bride Fake Nails Long Blue Crystal Press On Nails Wedding Full Cover False Nails for Women and Girls (24pc)
+     9. LIARTY 24Pcs Solid Color Purple Glitter Long Acryli Nail Tips Square Full Cover False Nails …
+    10. Outyua 3D Rhinstone Press on Nails with Designs Shimmer Coffin Extra Long Fake Nails Ballerina Pink Super Long False Nails Acrylic Full Cover Artificial Nail for Women and Girls 24
+
+  Custom Loss (GPT-4o):
+     1. YUNAI Fake Nail Long/Medium Size Fake Nail Artificial Nail Tips Sparkling Dream Color Purple
+     2. YUNAI Nail Art Symphony Shell Color Blue Metal Shine Fake Fingernails Artificial False Nail Tips for Women 24pcs/set
+     3. YUNAI Round Head Fake Nails for Women/Girl French Manicure All Match Light Purple&Nude False Nail Tips
+     4. Yeemoo 24pcs Fake Nails Ballet style nail art Solid color nail products Long section Fashion style Various colors (Purple)
+     5. Jovono Elegant False Nail Tips French Fake Nails for Brides or Bridesmaid No glue (Purple)
+     6. Umillars 7 Colors Matte False Nail Blue Long Ballerina Press On Nail Full Cover Fake Nails Fingernails Nail Tips Kit with One Crystal Nail File for Nail Art Salon DIY Decoration…
+     7. Umillars 12 Colors Glossy False Nail Blue Long Ballerina Press On Nail Full Cover Fake Nails Fingernails Nail Tips Kit with One Crystal Nail File for Nail Art Salon DIY Decoration 
+     8. LittleB Glossy Bride Fake Nails Long Blue Crystal Press On Nails Wedding Full Cover False Nails for Women and Girls (24pc)
+     9. YUNAI Deep Burgundy Gradient Glitter Fake Nails Art Salon Manicure Beauty Nail Patch False Nails with Design for Women French Full Nail Tips
+    10. YUNAI Bling Bling Fake Nails For Wedding Long Full Cover false Nail Tips
+
+  LLM-as-Embedder:
+     1. YUNAI Fake Nail Long/Medium Size Fake Nail Artificial Nail Tips Sparkling Dream Color Purple
+     2. YUNAI Nail Art Symphony Shell Color Blue Metal Shine Fake Fingernails Artificial False Nail Tips for Women 24pcs/set
+     3. Mirror False Nails Full Cover Point Metallic Acrylic Nail Tips 24pcs/box Art Design Tips 14 Colors Optional Easy for Daily wear (Sky Blue)
+     4. Sethexy Stiletto False Nail Medium Bling Fake Nails Glitter Acrylic Art Fake Nail Tips 24Pcs Full Press on Nails for Women and Girls (Blue)
+     5. Sethexy Glossy Oval False Nails Cat Eye Green & Blue Shine Medium Full Cover Art Design 24Pcs Fake Nails Tips for Women and Girls
+     6. YUNAI 24PCS Matte with Metallic French Acrylic False Fake Full Nail Tip Art Royal Blue&Gold
+     7. 120PCS False Toenail Tips for Women, 12 Size Artificial Fake nails with Case for Nail Solons and DIY Nail Art, Metellic Purple
+     8. Sethexy Long Ballerina False Nail Glossy Coffin Fake Nails Press on 24Pcs Acrylic Art Nail Tips For Women and Girls (Dodger Blue)
+     9. LittleB Long Fake Nails Coffin Glossy Blue Press on Nails Ballerina Acrylic False Nails Tips Party Prom for Women and Girls (24pc) (Navy)
+    10. LittleB Glossy Bride Fake Nails Long Blue Crystal Press On Nails Wedding Full Cover False Nails for Women and Girls (24pc)
+
+--------------------------------------------------------------------------------
+User: AHZFUZ4B2K5GEIJGBHADDNZVAXTA
+  History items:
+    - Anjou Swiss Vitamin C Serum, Complex C Anti-Oxidant for Face with Hyaluronic Acid, Age Defying, Separate Bottles for Weekly Use - 4 x 7ml / 0.23fl.oz.
+    - USpicy Hair Straightening Brush with Negative Ions Technology And Slide Temperature Control (Heats up Fast, Auto-Lock Function & Auto-Shut-Off Function, Innovative Bristle Design) 
+
+  Custom Loss (GPT-4o-mini):
+     1. Anjou Swiss Vitamin C Serum, Complex C Anti-Oxidant for Face with Hyaluronic Acid, Age Defying, Separate Bottles for Weekly Use - 4 x 7ml / 0.23fl.oz.
+     2. USpicy Hair Straightening Brush with Negative Ions Technology And Slide Temperature Control (Heats up Fast, Auto-Lock Function & Auto-Shut-Off Function, Innovative Bristle Design) 
+     3. USpicy Hair Straightening Brush with Negative Ions Technology And Slide Temperature Control (Heats up Fast, Auto-Lock Function & Auto-Shut-Off Function, Innovative Bristle Design) 
+     4. Anjou Hair Straightener Brush with Moroccan Oil Hair Treatment and Anion Hair Care (Adjustable Temperature Setting, Max 446℉ for All Hair Types, Auto Lock/Shutoff)
+     5. Anjou Hair Straightener Brush with Anion Hair Care, Metal Ceramics Heater Technology (Rose Gold, Adjustable Temperature Setting, Max 446℉ for All Hair Types, Auto Lock/Shutoff)
+     6. Premium Hair Straightener Brush for Smooth & Straight Hair - Professional Quality Anti Breakage Styling Brush for Women & Men - 11 Temperature Settings - Ion Technology for Damage 
+     7. Hair Straightening Brush Hair Straightener Brush with LCD Digital Electric Display for Fast Natural Straight Hair Styling (450℉ Max, Zero Damage, Anti Scald, Anion Hair Care) ANTI-
+     8. Straightening Brush, BQYPOWER Hair Straightener Iron Brush with Negative ions Anti-scald Faster Heating MCH + PTC Ceramic Technology 110-240V Travel Size Auto Shut Off and Physical
+     9. Bennra Hair Straightener Brush (2021New) - Enhanced Ionic Straightening Brush, LED Display & 20s Fast Straight Hair with Negative Ion Generator, Anti-Scald, Best for Salon at Home 
+    10. Hair Straightener Brush, ELLASSAY Ceramic Hair Straightening with Anti-Scald Feature, Auto Temperature Lock and Auto-off Function, Electrical Heated Irons Hair Straightening for Wo
+
+  Custom Loss (DeepSeek):
+     1. Anjou Swiss Vitamin C Serum, Complex C Anti-Oxidant for Face with Hyaluronic Acid, Age Defying, Separate Bottles for Weekly Use - 4 x 7ml / 0.23fl.oz.
+     2. USpicy Hair Straightening Brush with Negative Ions Technology And Slide Temperature Control (Heats up Fast, Auto-Lock Function & Auto-Shut-Off Function, Innovative Bristle Design) 
+     3. USpicy Hair Straightening Brush with Negative Ions Technology And Slide Temperature Control (Heats up Fast, Auto-Lock Function & Auto-Shut-Off Function, Innovative Bristle Design) 
+     4. Anjou Hair Straightener Brush with Moroccan Oil Hair Treatment and Anion Hair Care (Adjustable Temperature Setting, Max 446℉ for All Hair Types, Auto Lock/Shutoff)
+     5. Anjou Hair Straightener Brush with Anion Hair Care, Metal Ceramics Heater Technology (Rose Gold, Adjustable Temperature Setting, Max 446℉ for All Hair Types, Auto Lock/Shutoff)
+     6. Envy Professional Ionic Heat Brush Hair Straightener , Flat Iron Straightening Hot Brush Dual Voltage 110v - 240v For Silky Straight Hair
+     7. Electric Anion Hair Care Hair Styling Ceramic Heating Hair Straightener, Anti Frizz Hot Air Brush for Hair Straightening, Scalp Head Massager Anti Static Hair Detangler Brush for S
+     8. Hair Straightening Brush Hair Straightener Brush with LCD Digital Electric Display for Fast Natural Straight Hair Styling (450℉ Max, Zero Damage, Anti Scald, Anion Hair Care) ANTI-
+     9. Hair Straightener Brush, Baililai Ceramic Heating Plate Hair Straightening Brush, Anti- Scald, Scratch-Resistant, Auto Shut Off, Anion Spray Styling Straightening Brush
+    10. Eqoba Ceramic Hair Straightener Brush with Anti-Scald Protection and LCD Display Black Specifications:Rated Voltage: 110-220VRated Power: 75WFrequency: 50-60HzWire length: About 84
+
+  Custom Loss (GPT-4o):
+     1. Anjou Swiss Vitamin C Serum, Complex C Anti-Oxidant for Face with Hyaluronic Acid, Age Defying, Separate Bottles for Weekly Use - 4 x 7ml / 0.23fl.oz.
+     2. USpicy Hair Straightening Brush with Negative Ions Technology And Slide Temperature Control (Heats up Fast, Auto-Lock Function & Auto-Shut-Off Function, Innovative Bristle Design) 
+     3. USpicy Hair Straightening Brush with Negative Ions Technology And Slide Temperature Control (Heats up Fast, Auto-Lock Function & Auto-Shut-Off Function, Innovative Bristle Design) 
+     4. Anjou Hair Straightener Brush with Moroccan Oil Hair Treatment and Anion Hair Care (Adjustable Temperature Setting, Max 446℉ for All Hair Types, Auto Lock/Shutoff)
+     5. Premium Hair Straightener Brush for Smooth & Straight Hair - Professional Quality Anti Breakage Styling Brush for Women & Men - 11 Temperature Settings - Ion Technology for Damage 
+     6. Anjou Hair Straightener Brush with Anion Hair Care, Metal Ceramics Heater Technology (Rose Gold, Adjustable Temperature Setting, Max 446℉ for All Hair Types, Auto Lock/Shutoff)
+     7. Hair Straightener Brush, ELLASSAY Ceramic Hair Straightening with Anti-Scald Feature, Auto Temperature Lock and Auto-off Function, Electrical Heated Irons Hair Straightening for Wo
+     8. Hair Straightening Brush Hair Straightener Brush with LCD Digital Electric Display for Fast Natural Straight Hair Styling (450℉ Max, Zero Damage, Anti Scald, Anion Hair Care) ANTI-
+     9. Professional Hair Straightener Brush Best for Beauty 40W Digital Electric Straightening Comb Styles Silky Look
+    10. Electric Anion Hair Care Hair Styling Ceramic Heating Hair Straightener, Anti Frizz Hot Air Brush for Hair Straightening, Scalp Head Massager Anti Static Hair Detangler Brush for S
+
+  LLM-as-Embedder:
+     1. Anjou Swiss Vitamin C Serum, Complex C Anti-Oxidant for Face with Hyaluronic Acid, Age Defying, Separate Bottles for Weekly Use - 4 x 7ml / 0.23fl.oz.
+     2. USpicy Hair Straightening Brush with Negative Ions Technology And Slide Temperature Control (Heats up Fast, Auto-Lock Function & Auto-Shut-Off Function, Innovative Bristle Design) 
+     3. USpicy Hair Straightening Brush with Negative Ions Technology And Slide Temperature Control (Heats up Fast, Auto-Lock Function & Auto-Shut-Off Function, Innovative Bristle Design) 
+     4. Electric Anion Hair Care Hair Styling Ceramic Heating Hair Straightener, Anti Frizz Hot Air Brush for Hair Straightening, Scalp Head Massager Anti Static Hair Detangler Brush for S
+     5. Ionic Hair Straightener Brush - Enhanced Ionic Straightening Brush with 13 Heat Levels for Frizz-Free Silky Hair, Anti-Scald & Auto-Off Safe & Easy to Use
+     6. NEW Professional Vitamin C serum for your face! Potent Anti Aging Serum! One Single Bottle Has Three Forms of Vitamin C Serum 20 % + Hyaluronic Acid + Vitamin E. This Product Will 
+     7. Hotmir Vitamin C Serum for Face with Hyaluronic Acid - Fashionable Vitamin C Face Serum Anti-Aging with Vitamin E for Face, Skin - 20% 1fl oz
+     8. Serum Sensation Vitamin C Serum with Hyaluronic Acid, Organic Anti-Aging, Brightening Serum and Acne Scar Treatment (Vitamin c 2 pack)
+     9. AREJUV A7 Vitamin C Serum With Hyaluronic Acid - Facial Serum For face-0% Preservatives Coloring and Natural Ingredients -1fl 0z./30ml
+    10. Dr. Straight's Advanced Vitamin C Serum + Hyaluronic Acid + MSM + Vitamin E - Pharmacist Formulated
+
+--------------------------------------------------------------------------------

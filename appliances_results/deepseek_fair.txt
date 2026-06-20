@@ -1,0 +1,17 @@
+Precomputing item embeddings...
+
+LLM Recommender: backend=openai, model=deepseek-chat, prompt=fair
+Total test users: 54502
+HR@1: 0.0743  NDCG@1: 0.0743
+HR@2: 0.1033  NDCG@2: 0.0926
+HR@3: 0.1204  NDCG@3: 0.1011
+HR@4: 0.1358  NDCG@4: 0.1078
+HR@5: 0.1486  NDCG@5: 0.1127
+HR@6: 0.1618  NDCG@6: 0.1174
+HR@7: 0.1729  NDCG@7: 0.1211
+HR@8: 0.1841  NDCG@8: 0.1247
+HR@9: 0.1944  NDCG@9: 0.1277
+HR@10: 0.2055  NDCG@10: 0.1310
+Average Log Popularity Difference: -1.7338
+Average Intra-list Diversity (1 - cosine similarity): 0.3142
+Catalogue Coverage: 1.0337 (24168/23381 items)

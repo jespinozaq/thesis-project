@@ -1,0 +1,8 @@
+
+Evaluation on 7779 test users (top-10):
+HR@1: 0.0821  NDCG@1: 0.0821
+HR@5: 0.1058  NDCG@5: 0.0941
+HR@10: 0.1158  NDCG@10: 0.0974
+Average Log Popularity Difference: -1.0983
+Average Intra-list Diversity (1 - cosine similarity): 0.3525
+Catalogue Coverage: 0.3763 (42363/112590 items)

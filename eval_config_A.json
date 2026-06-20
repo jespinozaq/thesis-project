@@ -1,0 +1,70 @@
+{
+  "experiments": [
+    {
+      "name": "Zero-shot RoBERTa",
+      "type": "zero_shot",
+      "model_path": "roberta-base",
+      "model_name": "roberta-base",
+      "checkpoints_dir": null
+    },
+    {
+      "name": "Zero-shot BLAIR",
+      "type": "zero_shot",
+      "model_path": "blair-roberta-base-local",
+      "model_name": "roberta-base",
+      "checkpoints_dir": null
+    },
+    {
+      "name": "BLAIR Base (GPT-4o-mini full aug)",
+      "type": "fine_tuned",
+      "model_path": "checkpoints_blair_base_fullaug/best_model.pt",
+      "model_name": "roberta-base",
+      "checkpoints_dir": "checkpoints_blair_base_fullaug"
+    },
+    {
+      "name": "BLAIR Large (GPT-4o-mini full aug)",
+      "type": "fine_tuned",
+      "model_path": "checkpoints_blair_large_fullaug/best_model.pt",
+      "model_name": "blair-roberta-large-local",
+      "checkpoints_dir": "checkpoints_blair_large_fullaug"
+    },
+    {
+      "name": "LLM (ChatGPT base)",
+      "type": "llm",
+      "backend": "openai",
+      "model": "gpt-3.5-turbo",
+      "prompt_mode": "base",
+      "api_key_env": "OPENAI_API_KEY",
+      "num_workers": 290,
+      "request_delay": 0.01
+    },
+    {
+      "name": "LLM (ChatGPT fair)",
+      "type": "llm",
+      "backend": "openai",
+      "model": "gpt-3.5-turbo",
+      "prompt_mode": "fair",
+      "api_key_env": "OPENAI_API_KEY",
+      "num_workers": 290,
+      "request_delay": 0.01
+    },
+    {
+      "name": "Combined (BLAIR + ChatGPT fair)",
+      "type": "combined",
+      "model_path": "checkpoints_blair_base_fullaug/best_model.pt",
+      "model_name": "roberta-base",
+      "backend": "openai",
+      "llm_model": "gpt-3.5-turbo",
+      "api_key_env": "OPENAI_API_KEY",
+      "num_workers": 60,
+      "request_delay": 0.03
+    }
+  ],
+  "common": {
+    "test_seq": "processed_All_Beauty/test_seqs.json",
+    "meta_file": "meta_All_Beauty.jsonl",
+    "item_pop": "processed_All_Beauty/item_popularity.json",
+    "topk": 10,
+    "blair_model_path": "blair-roberta-base-local"
+  }
+}

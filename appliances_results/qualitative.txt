@@ -1,0 +1,274 @@
+Qualitative examples:
+
+User: AGAO6SLZKHFYJKGQFMKKCB5SCO4Q
+  History items:
+    - B01FEO69PG
+    - B01D24WPWG
+    - B00TFWBZ30
+
+  Custom Loss (GPT-4o-mini):
+     1. B01D24WPWG
+     2. B00TFWBZ30
+     3. B01D9APID6
+     4. B01FEO69PG
+     5. B07P7W1KC3
+     6. B08QMGM968
+     7. B07QYVWDMN
+     8. B014R5K9P4
+     9. B07THSTNNC
+    10. B078D7CQ9M
+
+  Custom Loss (DeepSeek):
+     1. B01D9APID6
+     2. B01D24WPWG
+     3. B00TFWBZ30
+     4. B01FEO69PG
+     5. B018WHB97U
+     6. B00P4OCRXA
+     7. B07239PT38
+     8. B01ACPRYYC
+     9. B01IAEF87W
+    10. B01C6AANI0
+
+  Custom Loss (GPT-4o):
+     1. B01D24WPWG
+     2. B00TFWBZ30
+     3. B01D9APID6
+     4. B01FEO69PG
+     5. B018WHB97U
+     6. B01GC0X8WS
+     7. B076NSSYFQ
+     8. B00X5F9E3Q
+     9. B07QYVWDMN
+    10. B01C6AANI0
+
+  LLM-as-Embedder:
+     1. B01FEO69PG
+     2. B00TFWBZ30
+     3. B01D24WPWG
+     4. B01DUEQ7A4
+     5. B01D9APID6
+     6. B082153HH6
+     7. B07G9541FR
+     8. B07H2P8YRJ
+     9. B08ZXZ59WJ
+    10. B07S6KJ6L6
+
+--------------------------------------------------------------------------------
+User: AETF6ELTWQKKZ4GMVZ4ZD5DK4PLA
+  History items:
+    - B01IGXNWHA
+    - B01IGXNWLQ
+
+  Custom Loss (GPT-4o-mini):
+     1. B01IGXNWHA
+     2. B01IGXNWLQ
+     3. B01IGXNWGG
+     4. B00BYXJQVQ
+     5. B08NXYJL2Q
+     6. B01HTQC0HI
+     7. B07GFCMFQV
+     8. B08L8PNLR6
+     9. B01MFFON68
+    10. B078XPVJ4G
+
+  Custom Loss (DeepSeek):
+     1. B01IGXNWLQ
+     2. B01IGXNWHA
+     3. B01IGXNWGG
+     4. B01HTQC0HI
+     5. B01MFFON68
+     6. B0727RSV9B
+     7. B07J2G5V5L
+     8. B08NXYJL2Q
+     9. B00BYXJQVQ
+    10. B08L8PNLR6
+
+  Custom Loss (GPT-4o):
+     1. B01IGXNWHA
+     2. B01IGXNWLQ
+     3. B01IGXNWGG
+     4. B00BYXJQVQ
+     5. B01MFFON68
+     6. B07J2G5V5L
+     7. B08L8PNLR6
+     8. B08NXYJL2Q
+     9. B01H3GA7Q0
+    10. B078XPVJ4G
+
+  LLM-as-Embedder:
+     1. B01IGXNWHA
+     2. B01IGXNWLQ
+     3. B01IGXNWGG
+     4. B01BNGKXCO
+     5. B014PCTIUQ
+     6. B01BNGKWMK
+     7. B01LZ39WD7
+     8. B07GB1X5TW
+     9. B01NBDIL1S
+    10. B06XGCM3N6
+
+--------------------------------------------------------------------------------
+User: AGMZRJ5NX2NYWAFZKSSJBYQT4CDA
+  History items:
+    - B01M17G6QU
+    - B071S5LDRT
+
+  Custom Loss (GPT-4o-mini):
+     1. B071S5LDRT
+     2. B01M17G6QU
+     3. B0752CPRD2
+     4. B08GCBSY5H
+     5. B08BL7P2Z4
+     6. B08PXY2ZN7
+     7. B00NTPGV74
+     8. B08BL8X74Z
+     9. B08LMBKGBB
+    10. B08LMYMXT3
+
+  Custom Loss (DeepSeek):
+     1. B01M17G6QU
+     2. B071S5LDRT
+     3. B0752CPRD2
+     4. B07799JFF5
+     5. B08GC778RJ
+     6. B08GBTBVHY
+     7. B0752SFLTM
+     8. B08GCCZ7Z8
+     9. B08GCCBZ83
+    10. B08GC9J6RL
+
+  Custom Loss (GPT-4o):
+     1. B071S5LDRT
+     2. B01M17G6QU
+     3. B0752CPRD2
+     4. B08LMBKGBB
+     5. B08LMYMXT3
+     6. B07T95VV2V
+     7. B07GF7X8FQ
+     8. B07ZS9TWP1
+     9. B07PXP1TNB
+    10. B08MKNV6SJ
+
+  LLM-as-Embedder:
+     1. B01M17G6QU
+     2. B071S5LDRT
+     3. B07C3M7B53
+     4. B07C3KY8Z6
+     5. B07G9G4PNZ
+     6. B06XPGQ152
+     7. B07216GPNS
+     8. B0713XG8C1
+     9. B07BZSGZRF
+    10. B07CTHTV6B
+
+--------------------------------------------------------------------------------
+User: AHGSWWKR3BIS7UXU4NFWQXMTNMKA
+  History items:
+    - B076LNBPG4
+    - B07GBWV33H
+    - B07SCM9DQY
+
+  Custom Loss (GPT-4o-mini):
+     1. B076LNBPG4
+     2. B07GBWV33H
+     3. B076M2BFVF
+     4. B076LLCFRL
+     5. B0795FDCP3
+     6. B08SCJ2B6P
+     7. B08NX77TGT
+     8. B08KDFK6H6
+     9. B07G48JSRH
+    10. B07JD99DGN
+
+  Custom Loss (DeepSeek):
+     1. B076LNBPG4
+     2. B07GBWV33H
+     3. B076M2BFVF
+     4. B06WGTVK8P
+     5. B07KN36H83
+     6. B06VXLGRRV
+     7. B074TDM391
+     8. B076LLCFRL
+     9. B08KDFK6H6
+    10. B06W9NFDV5
+
+  Custom Loss (GPT-4o):
+     1. B07GBWV33H
+     2. B076LNBPG4
+     3. B076M2BFVF
+     4. B074TDM391
+     5. B07TSJ623M
+     6. B06WGTVK8P
+     7. B07G48JSRH
+     8. B08KDFK6H6
+     9. B06VXLGRRV
+    10. B08NX77TGT
+
+  LLM-as-Embedder:
+     1. B076LNBPG4
+     2. B076M2BFVF
+     3. B076LLCFRL
+     4. B07GBWV33H
+     5. B07HHXHMML
+     6. B07MZVHY55
+     7. B07JMVZ9CM
+     8. B07BRR288H
+     9. B08KDF84VZ
+    10. B07GNZ7BT3
+
+--------------------------------------------------------------------------------
+User: AHTKADZAXYMUFMK75BQZ4GND6ZAA
+  History items:
+    - B083DJCNRC
+    - B087BYQB4S
+
+  Custom Loss (GPT-4o-mini):
+     1. B083DJCNRC
+     2. B087BYQB4S
+     3. B071LC7WPQ
+     4. B06W2PJ9F4
+     5. B08M5GSHMJ
+     6. B01CTO1IL4
+     7. B08M42PNJ5
+     8. B0873CFCLS
+     9. B07W52KHSG
+    10. B019SLB6FO
+
+  Custom Loss (DeepSeek):
+     1. B083DJCNRC
+     2. B087BYQB4S
+     3. B08M5GSHMJ
+     4. B07N2NND6D
+     5. B0916YR82V
+     6. B08M42PNJ5
+     7. B0873CFCLS
+     8. B07F3KJF58
+     9. B089W1JQPT
+    10. B09NSFNJH6
+
+  Custom Loss (GPT-4o):
+     1. B087BYQB4S
+     2. B083DJCNRC
+     3. B08M5GSHMJ
+     4. B0899QLJML
+     5. B08XJKW7M5
+     6. B019SLB6FO
+     7. B082KWNQL6
+     8. B07N2NND6D
+     9. B07F3KJF58
+    10. B0922LYVR1
+
+  LLM-as-Embedder:
+     1. B087BYQB4S
+     2. B083DJCNRC
+     3. B019SLB6FO
+     4. B07MKJ2KKR
+     5. B073F41LWL
+     6. B0978X4KDP
+     7. B07P8RS7VF
+     8. B0899QLJML
+     9. B07Q3F3F23
+    10. B01822C1YU
+
+--------------------------------------------------------------------------------

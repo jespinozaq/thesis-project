@@ -1,0 +1,82 @@
+{
+  "experiments": [
+    {
+      "name": "LLM (ChatGPT base)",
+      "type": "llm",
+      "backend": "openai",
+      "model": "gpt-3.5-turbo",
+      "prompt_mode": "base",
+      "api_key_env": "OPENAI_API_KEY",
+      "num_workers": 290,
+      "request_delay": 0.01,
+      "seed": 44
+    },
+    {
+      "name": "LLM (ChatGPT fair)",
+      "type": "llm",
+      "backend": "openai",
+      "model": "gpt-3.5-turbo",
+      "prompt_mode": "fair",
+      "api_key_env": "OPENAI_API_KEY",
+      "num_workers": 290,
+      "request_delay": 0.01,
+      "seed": 44
+    },
+    {
+      "name": "Combined (BLAIR + ChatGPT fair)",
+      "type": "combined",
+      "model_path": "checkpoints_blair_base_fullaug/best_model.pt",
+      "model_name": "roberta-base",
+      "backend": "openai",
+      "llm_model": "gpt-3.5-turbo",
+      "api_key_env": "OPENAI_API_KEY",
+      "num_workers": 60,
+      "request_delay": 0.03,
+      "seed": 44
+    },
+    {
+      "name": "LLM (DeepSeek base)",
+      "type": "llm",
+      "backend": "openai",
+      "model": "deepseek-chat",
+      "prompt_mode": "base",
+      "base_url": "https://api.deepseek.com",
+      "api_key_env": "DEEPSEEK_API_KEY",
+      "num_workers": 30,
+      "request_delay": 0.1,
+      "seed": 44
+    },
+    {
+      "name": "LLM (DeepSeek fair)",
+      "type": "llm",
+      "backend": "openai",
+      "model": "deepseek-chat",
+      "prompt_mode": "fair",
+      "base_url": "https://api.deepseek.com",
+      "api_key_env": "DEEPSEEK_API_KEY",
+      "num_workers": 30,
+      "request_delay": 0.1,
+      "seed": 44
+    },
+    {
+      "name": "Combined (BLAIR + DeepSeek fair)",
+      "type": "combined",
+      "model_path": "checkpoints_blair_base_fullaug/best_model.pt",
+      "model_name": "roberta-base",
+      "backend": "openai",
+      "llm_model": "deepseek-chat",
+      "base_url": "https://api.deepseek.com",
+      "api_key_env": "DEEPSEEK_API_KEY",
+      "num_workers": 60,
+      "request_delay": 0.03,
+      "seed": 44
+    }
+  ],
+  "common": {
+    "test_seq": "processed_All_Beauty/test_seqs.json",
+    "meta_file": "meta_All_Beauty.jsonl",
+    "item_pop": "processed_All_Beauty/item_popularity.json",
+    "topk": 10,
+    "blair_model_path": "blair-roberta-base-local"
+  }
+}

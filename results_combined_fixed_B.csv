@@ -1,0 +1,2 @@
+Experiment,HR@1,HR@5,HR@10,NDCG@10,LogPopDiff,Diversity,Coverage
+Combined (BLAIR + DeepSeek fair),0.0524,0.1079,0.1172,0.0854,-1.0834,0.4604,0.382

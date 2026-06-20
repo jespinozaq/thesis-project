@@ -1,0 +1,2 @@
+Experiment,HR@10,NDCG@10,LogPopDiff,Diversity,Coverage
+"LLM‑as‑Embedder (Llama‑3.1‑8B, full aug)",0.1143,0.0973,-1.1053,0.2881,0.3494

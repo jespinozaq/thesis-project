@@ -1,0 +1,7 @@
+Ignoring 2240 unexpected quantisation metadata keys.
+HR@1: 0.0824  NDCG@1: 0.0824
+HR@5: 0.1032  NDCG@5: 0.0930
+HR@10: 0.1121  NDCG@10: 0.0959
+Average Log Popularity Difference: -1.1157
+Average Intra-list Diversity (1 - cosine similarity): 0.3048
+Catalogue Coverage: 0.3550 (39970/112590 items)

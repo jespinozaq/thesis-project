@@ -1,0 +1,7 @@
+loss,best_epoch,val_hr,val_ndcg,val_popdiff,val_diversity
+infonce,N/A (pre‑trained),0.1113,0.0958,-1.2238,0.2878
+bpr,N/A (pre‑trained),0.1099,0.0956,-1.2212,0.3002
+debiased,N/A (pre‑trained),0.1112,0.0957,-1.2068,0.2618
+bc,N/A (pre‑trained),0.1109,0.0959,-1.2163,0.2621
+sce,N/A (pre‑trained),0.1103,0.0957,-1.2158,0.2753
+ipw_sce,N/A (pre‑trained),0.1112,0.0961,-1.2102,0.3952
